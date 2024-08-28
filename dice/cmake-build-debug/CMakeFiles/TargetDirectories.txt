@@ -1,0 +1,3 @@
+/Users/lenard/Library/CloudStorage/Dropbox/WORK/dice/cmake-build-debug/CMakeFiles/dice.dir
+/Users/lenard/Library/CloudStorage/Dropbox/WORK/dice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lenard/Library/CloudStorage/Dropbox/WORK/dice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
