@@ -1,4 +1,4 @@
-# ⚠️ WARNING!
+# ⚠️ EDUCATIONAL PURPOSE!
 <ul>
 I don't tolerate gambling because it can lead to big money losses, this is just a showcase in which I show curious people what a simple algorithm for CRASH would look like.
 <be><br>
